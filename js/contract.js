@@ -91,4 +91,4 @@ var FixGenerateContractABI = [
 	}
 ] ;
 
-var FixGenerateContractAddress = "0xc55B277eba555f5a251eD736c943c2ba7a6FD2E9";
+var FixGenerateContractAddress = "0xe89d402e8588b73dd1676a49f86f6c749f25442b";
